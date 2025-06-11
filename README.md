@@ -1,6 +1,6 @@
-# Backend Developer in Japan👋
-### Just 20 years old 
-### Feel free to contact me anytime!👍
+# 👋 Hi there! I'm an aspiring engineer based in Japan.
+### 🧑‍💻 I'm 25 years old and currently studying programming every day.
+### 💬 Feel free to reach out to me anytime! 👍
 #
 ![WindTunnelRetirement's GitHub stats](https://github-readme-stats.vercel.app/api?username=WindTunnelRetirement&show_icons=true&theme=vue-dark)
 
