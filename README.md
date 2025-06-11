@@ -12,7 +12,7 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ruby,typescropt," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,ruby,typescript" /> <br /><br />
 
 ## Frameworks and Library
 
