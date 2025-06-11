@@ -12,7 +12,7 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ruby," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,ruby,typescropt" /> <br /><br />
 
 ## Frameworks and Library
 
@@ -20,4 +20,4 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,figma" /> <br /><br />
