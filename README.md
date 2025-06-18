@@ -62,7 +62,7 @@
 
 <div align="center">
   <a href="https://github.com/WindTunnelRetirement/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WindTunnelRetirement&repo=your-project-1&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WindTunnelRetirement&my-app-project-1&theme=radical" />
   </a>
   <a href="https://github.com/WindTunnelRetirement/your-project-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WindTunnelRetirement&repo=your-project-2&theme=radical" />
