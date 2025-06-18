@@ -27,7 +27,7 @@
 
 ### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ruby,rails" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails" />
 </p>
 
 ### Database & DevOps
