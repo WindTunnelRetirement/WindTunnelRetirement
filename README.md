@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
@@ -66,24 +66,6 @@
   </a>
   <a href="https://github.com/WindTunnelRetirement/your-project-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WindTunnelRetirement&repo=your-project-2&theme=radical" />
-  </a>
-</div>
-
-## 🤝 Connect with Me
-
-<div align="center">
-  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/your_twitter)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
-
-</div>
-
-## 💖 Support Me
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/your_username">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
 </div>
 
