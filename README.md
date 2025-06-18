@@ -22,7 +22,7 @@
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vue,nuxt" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite" />
 </p>
 
 ### Backend
