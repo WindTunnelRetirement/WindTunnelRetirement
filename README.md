@@ -61,11 +61,8 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/WindTunnelRetirement/your-project-1">
-    <img src="https://github.com/WindTunnelRetirement/my-app-project&theme=radical" />
-  </a>
-  <a href="https://github.com/WindTunnelRetirement/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WindTunnelRetirement&repo=your-project-2&theme=radical" />
+  <a href="https://github.com/WindTunnelRetirement/my-app-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WindTunnelRetirement&repo=my-app-project&theme=radical" />
   </a>
 </div>
 
