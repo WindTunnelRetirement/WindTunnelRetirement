@@ -43,7 +43,7 @@
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WindTunnelRetirement&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=WindTunnelRetirement&theme=radical&hide_border=true" />
 </div>
 
 ## 🏆 GitHub Trophies
