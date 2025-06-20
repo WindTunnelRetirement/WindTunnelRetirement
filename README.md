@@ -42,9 +42,9 @@
 
 ## 🔥 Streak Stats
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=WindTunnelRetirement&theme=radical&hide_border=true" />
-</div>
+</p>
 
 ## 🏆 GitHub Trophies
 
