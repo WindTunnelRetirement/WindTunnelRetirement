@@ -77,11 +77,11 @@ const me: Developer = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WindTunnelRetirement&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WindTunnelRetirement&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WindTunnelRetirement&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
@@ -89,7 +89,7 @@ const me: Developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=discord&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WindTunnelRetirement&theme=discord&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -99,8 +99,8 @@ const me: Developer = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/yourusername/awesome-project-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-2&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/yourusername/awesome-project-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WindTunnelRetirement&repo=awesome-project-1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/WindTunnelRetirement/awesome-project-1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WindTunnelRetirement&repo=awesome-project-2&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/WindTunnelRetirement/awesome-project-2)
 
 </div>
 
@@ -114,7 +114,7 @@ const me: Developer = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WindTunnelRetirement&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -157,7 +157,7 @@ YAML         55 mins         █░░░░░░░░░░░░░░░░
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/WindTunnelRetirement/WindTunnelRetirement/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -165,10 +165,10 @@ YAML         55 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-**⭐ From [yourusername](https://github.com/yourusername)**
+**⭐ From [WindTunnelRetirement](https://github.com/WindTunnelRetirement)**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
+![Visitor Count](https://komarev.com/ghpvc/?username=WindTunnelRetirement&color=brightgreen&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/WindTunnelRetirement?style=social)
+![GitHub stars](https://img.shields.io/github/stars/WindTunnelRetirement?style=social)
 
 </div>
