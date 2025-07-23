@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00f5ff/WindTunnelRetirement" alt="GitHub Contribution Chart" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindTunnelRetirement&theme=tokyonight" />
 
 </div>
 
