@@ -12,44 +12,6 @@
 
 ---
 
-```ruby
-class Haru < BeginnerDeveloper
-  def initialize
-    @name = "Haru"
-    @status = "Learning everyday"
-    @language_spoken = ["ja", "en"]
-    @motto = "Small steps, big dreams"
-  end
-
-  def currently_learning
-    [
-      "📚 Ruby on Rails basics",
-      "🎨 HTML & CSS fundamentals", 
-      "💫 JavaScript step by step",
-      "🤔 How to not break things"
-    ]
-  end
-
-  def daily_routine
-    [
-      "☕ Coffee (lots of it)",
-      "📖 Read documentation", 
-      "💻 Practice coding",
-      "🐛 Debug (and learn from mistakes)",
-      "🌙 Dream about clean code"
-    ]
-  end
-
-  def goals
-    {
-      "this_month" => "Finish my first Rails app",
-      "this_year" => "Build something I'm proud of",
-      "someday" => "Help others learn too"
-    }
-  end
-end
-```
-
 <div align="center">
 
 ## 🛠️ Learning Stack
@@ -91,14 +53,14 @@ end
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WindTunnelRetirement&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=⚡ MY CODING STATS" height="200" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindTunnelRetirement&layout=donut&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&text_color=ffffff&count_private=true&custom_title=🌌 LANGUAGES I'M LEARNING" height="200" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=WindTunnelRetirement&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=⚡ MY CODING STATS" height="200" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WindTunnelRetirement&layout=donut&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&text_color=ffffff&count_private=true&custom_title=🌌 LANGUAGES I'M LEARNING" height="200" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WindTunnelRetirement&theme=synthwave&hide_border=true&background=0,000428,004e92&stroke=00f5ff&ring=00f5ff&fire=ffd700&currStreakLabel=00f5ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=00f5ff&border_radius=15" />
+<img src="https://streak-stats.demolab.com/?user=WindTunnelRetirement&theme=synthwave&hide_border=true&background=0,000428,004e92&stroke=00f5ff&ring=00f5ff&fire=ffd700&currStreakLabel=00f5ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=00f5ff&border_radius=15" />
 
 </div>
 
@@ -134,51 +96,13 @@ end
 
 <div align="center">
 
-## 🎯 Current Focus
-
-</div>
-
-```javascript
-const haruLearningStatus = {
-  currentProject: {
-    name: "🎯 Matcha",
-    description: "My first Rails app - learning as I build!",
-    repository: "https://github.com/WindTunnelRetirement/Matcha",
-    status: "🌱 Work in progress"
-  },
-  
-  studyPlan: {
-    frontend: ["HTML/CSS basics", "JavaScript fundamentals"],
-    backend: ["Ruby syntax", "Rails conventions"],
-    tools: ["Git workflow", "VS Code shortcuts"],
-    next: ["Maybe TypeScript?", "React looks cool!"]
-  },
-  
-  learningGoals: [
-    "🚀 Complete my first Rails app",
-    "📚 Understand MVC pattern", 
-    "🐛 Get better at debugging",
-    "💪 Write cleaner code",
-    "🌟 Maybe help other beginners"
-  ],
-  
-  mindset: "Every bug is a lesson, every error is growth",
-  
-  confession: "I still Google 'how to exit vim' sometimes 😅"
-};
-```
-
----
-
-<div align="center">
-
 ## 🌟 Projects I'm Working On
 
 </div>
 
 <div align="center">
 
-[![Matcha](https://github-readme-stats.vercel.app/api/pin/?username=WindTunnelRetirement&repo=Matcha&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&text_color=ffffff)](https://github.com/WindTunnelRetirement/Matcha)
+[![Matcha](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=WindTunnelRetirement&repo=Matcha&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&text_color=ffffff)](https://github.com/WindTunnelRetirement/Matcha)
 
 *🌱 Learning by building, one commit at a time...*
 
