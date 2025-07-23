@@ -1,7 +1,7 @@
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WindTunnelRetirement&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WindTunnelRetirement&layout=compact&theme=tokyonight&hide_border=true&count_private=true&card_width=445&langs_count=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WindTunnelRetirement&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=e6edf3)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WindTunnelRetirement&layout=compact&theme=radical&hide_border=true&count_private=true&card_width=445&langs_count=10&bg_color=0d1117&title_color=00ff41&text_color=e6edf3)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=WindTunnelRetirement&theme=tokyonight&hide_border=true&border_radius=10)
 
@@ -13,6 +13,6 @@
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WindTunnelRetirement&theme=tokyonight)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WindTunnelRetirement&theme=tokyonight&utcOffset=9)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=WindTunnelRetirement&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=2&column=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=WindTunnelRetirement&theme=matrix&no-frame=true&no-bg=true&margin-w=4&margin-h=2&column=7)
 
 </div>
