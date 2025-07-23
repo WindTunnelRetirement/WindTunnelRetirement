@@ -20,5 +20,5 @@
   <br/>
   
   <!-- トロフィー - 深緑matrixテーマ、より密に配置 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=WindTunnelRetirement&theme=matrix&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WindTunnelRetirement&theme=matrix&no-frame=true&no-bg=true&margin-w=3&margin-h=3&column=6&row=1&rank=SECRET,SSS,SS,S,AAA,AA" />
 </div>
