@@ -6,7 +6,7 @@
   <br/>
   
   <!-- プロフィール詳細 - 幅を縮小 -->
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindTunnelRetirement&theme=github_dark" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindTunnelRetirement&theme=github_dark" />
   
   <br/>
   
