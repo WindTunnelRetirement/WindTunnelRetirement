@@ -74,7 +74,7 @@
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=WindTunnelRetirement&theme=nord&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&bg_color=000428,004e92)
+![Trophy](https://github-profile-trophy.vercel.app/?username=WindTunnelRetirement&theme=nord&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&bg_color=001845,004e92)
 
 </div>
 
