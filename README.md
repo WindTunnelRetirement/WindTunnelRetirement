@@ -88,10 +88,10 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindTunnelRetirement&theme=synthwave" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WindTunnelRetirement&theme=synthwave" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WindTunnelRetirement&theme=synthwave" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WindTunnelRetirement&theme=synthwave" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindTunnelRetirement&theme=nord_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WindTunnelRetirement&theme=nord_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WindTunnelRetirement&theme=nord_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WindTunnelRetirement&theme=nord_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WindTunnelRetirement&theme=synthwave&utcOffset=9" />
 
 </div>
