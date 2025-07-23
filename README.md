@@ -53,9 +53,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WindTunnelRetirement&theme=synthwave" height="200" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WindTunnelRetirement&theme=synthwave" height="200" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WindTunnelRetirement&theme=synthwave" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=WindTunnelRetirement&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=⚡%20MY%20CODING%20STATS" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindTunnelRetirement&layout=donut&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&text_color=ffffff&count_private=true&custom_title=🌌%20LANGUAGES%20I'M%20LEARNING" height="200" />
 
 </div>
 
