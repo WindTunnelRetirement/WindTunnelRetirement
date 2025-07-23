@@ -53,8 +53,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=WindTunnelRetirement&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=⚡ MY CODING STATS" height="200" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WindTunnelRetirement&layout=donut&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&text_color=ffffff&count_private=true&custom_title=🌌 LANGUAGES I'M LEARNING" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=WindTunnelRetirement&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=⚡%20MY%20CODING%20STATS" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindTunnelRetirement&layout=donut&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&text_color=ffffff&count_private=true&custom_title=🌌%20LANGUAGES%20I'M%20LEARNING" height="200" />
 
 </div>
 
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WindTunnelRetirement&custom_title=💻 MY LEARNING JOURNEY&bg_color=000428&color=00f5ff&line=ffd700&point=ffffff&area=true&hide_border=true&area_color=004e92" width="100%" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=WindTunnelRetirement&custom_title=💻%20MY%20LEARNING%20JOURNEY&bg_color=000428&color=00f5ff&line=ffd700&point=ffffff&area=true&hide_border=true&area_color=004e92" width="100%" />
 
 </div>
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-[![Matcha](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=WindTunnelRetirement&repo=Matcha&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&text_color=ffffff)](https://github.com/WindTunnelRetirement/Matcha)
+[![Matcha](https://github-readme-stats.vercel.app/api/pin/?username=WindTunnelRetirement&repo=Matcha&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&text_color=ffffff)](https://github.com/WindTunnelRetirement/Matcha)
 
 *🌱 Learning by building, one commit at a time...*
 
