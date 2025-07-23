@@ -1,31 +1,61 @@
-## Profile
+# 📊 GitHub Stats
 
+<div align="center">
 
-<p align="left">
-  <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/WindTunnelRetirement/WindTunnelRetirement/output-3d-contrib/day.svg" />
-  </picture>
-  <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/WindTunnelRetirement/WindTunnelRetirement/output-3d-contrib/day.svg" />
-  </picture>
-</p>
+## ⚡ Coding Overview
 
-<p align="left" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/WindTunnelRetirement/WindTunnelRetirement/output-3d-contrib/day.svg" />
-	</picture>
-</p>　
+<img src="https://github-readme-stats.vercel.app/api?username=WindTunnelRetirement&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=📈%20Coding%20Stats" height="180" />
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-  <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
- <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/WindTunnelRetirement/WindTunnelRetirement/output-3d-contrib/day.svg" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindTunnelRetirement&layout=compact&theme=tokyonight&hide_border=true&count_private=true&custom_title=💻%20Languages&card_width=400&langs_count=10" height="180" />
 
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Commit Streak
+
+<img src="https://streak-stats.demolab.com/?user=WindTunnelRetirement&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Achievement Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=WindTunnelRetirement&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C,-B" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Detailed Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindTunnelRetirement&theme=tokyonight" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WindTunnelRetirement&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WindTunnelRetirement&theme=tokyonight" width="48%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WindTunnelRetirement&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WindTunnelRetirement&theme=tokyonight&utcOffset=9" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Happy Coding! 
+
+![Visitor Count](https://profile-counter.glitch.me/WindTunnelRetirement/count.svg)
+
+</div>
