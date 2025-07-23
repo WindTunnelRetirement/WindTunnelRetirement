@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindTunnelRetirement&theme=synthwave" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WindTunnelRetirement&theme=synthwave" />
 
 </div>
 
