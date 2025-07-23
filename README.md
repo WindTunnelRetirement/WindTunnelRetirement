@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://github.com/WindTunnelRetirement/WindTunnelRetirement/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://ghchart.rshah.org/00f5ff/WindTunnelRetirement" alt="GitHub Contribution Chart" width="100%" />
 
 </div>
 
