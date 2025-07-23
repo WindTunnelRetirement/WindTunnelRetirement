@@ -126,7 +126,7 @@ end
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prog0123&custom_title=💻 MY LEARNING JOURNEY&bg_color=000428&color=00f5ff&line=ffd700&point=ffffff&area=true&hide_border=true&area_color=004e92" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WindTunnelRetirement&custom_title=💻 MY LEARNING JOURNEY&bg_color=000428&color=00f5ff&line=ffd700&point=ffffff&area=true&hide_border=true&area_color=004e92" width="100%" />
 
 </div>
 
