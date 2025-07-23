@@ -11,6 +11,6 @@
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WindTunnelRetirement&theme=github_dark)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WindTunnelRetirement&theme=github_dark&utcOffset=9)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=WindTunnelRetirement&theme=matrix&no-frame=true&no-bg=true&margin-w=4&margin-h=2&column=4&title=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![Trophy](https://github-profile-trophy.vercel.app/?username=WindTunnelRetirement&theme=matrix&no-frame=true&no-bg=true&margin-w=4&margin-h=2&column=4)
 
 </div>
