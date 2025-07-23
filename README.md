@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00f5ff/WindTunnelRetirement" alt="GitHub Contribution Chart" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=WindTunnelRetirement&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&text_color=ffffff" />
 
 </div>
 
