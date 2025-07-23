@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WindTunnelRetirement&bg_color=000428&color=00f5ff&line=00f5ff&point=ffffff&area=false&hide_border=true&custom_title=💻%20MY%20LEARNING%20JOURNEY" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WindTunnelRetirement&bg_color=000428&color=00f5ff&line=00f5ff&point=ffd700&hide_border=true&custom_title=💻%20MY%20LEARNING%20JOURNEY&grid=true" width="100%" />
 
 </div>
 
