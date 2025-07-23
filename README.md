@@ -1,31 +1,201 @@
-## Profile
+<div align="center">
 
+# 🌌 Welcome to Haru's Coding Journey 🌌
 
-<p align="left">
-  <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/WindTunnelRetirement/WindTunnelRetirement/output-3d-contrib/day.svg" />
-  </picture>
-  <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/WindTunnelRetirement/WindTunnelRetirement/output-3d-contrib/day.svg" />
-  </picture>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=👋+Hello!+I'm+Haru;🌱+Learning+Web+Development;💎+Ruby+on+Rails+Student;⚡+Just+Started+My+Coding+Adventure" alt="Typing SVG" />
 
-<p align="left" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/WindTunnelRetirement/WindTunnelRetirement/output-3d-contrib/day.svg" />
-	</picture>
-</p>　
+<br>
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-  <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
- <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/WindTunnelRetirement/WindTunnelRetirement/output-3d-contrib/day.svg" />
-</picture>
+[![Profile Views](https://komarev.com/ghpvc/?username=Prog0123&color=00f5ff&style=for-the-badge&label=Profile+Views)](https://github.com/Prog0123)
 
+</div>
+
+---
+
+```ruby
+class Haru < BeginnerDeveloper
+  def initialize
+    @name = "Haru"
+    @status = "Learning everyday"
+    @language_spoken = ["ja", "en"]
+    @motto = "Small steps, big dreams"
+  end
+
+  def currently_learning
+    [
+      "📚 Ruby on Rails basics",
+      "🎨 HTML & CSS fundamentals", 
+      "💫 JavaScript step by step",
+      "🤔 How to not break things"
+    ]
+  end
+
+  def daily_routine
+    [
+      "☕ Coffee (lots of it)",
+      "📖 Read documentation", 
+      "💻 Practice coding",
+      "🐛 Debug (and learn from mistakes)",
+      "🌙 Dream about clean code"
+    ]
+  end
+
+  def goals
+    {
+      "this_month" => "Finish my first Rails app",
+      "this_year" => "Build something I'm proud of",
+      "someday" => "Help others learn too"
+    }
+  end
+end
+```
+
+<div align="center">
+
+## 🛠️ Learning Stack
+
+</div>
+
+<div align="center">
+
+### 💎 Backend Journey
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+### ⚡ Frontend Basics
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+### 🌱 Want to Learn
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&opacity=0.5)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&opacity=0.5)]()
+
+### 🛠️ Tools I Use
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prog0123&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=⚡ MY CODING STATS" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog0123&layout=donut&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&text_color=ffffff&count_private=true&custom_title=🌌 LANGUAGES I'M LEARNING" height="200" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prog0123&theme=synthwave&hide_border=true&background=0,000428,004e92&stroke=00f5ff&ring=00f5ff&fire=ffd700&currStreakLabel=00f5ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=00f5ff&border_radius=15" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Learning Progress
+
+</div>
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Prog0123&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 My Coding Activity
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prog0123&custom_title=💻 MY LEARNING JOURNEY&bg_color=000428&color=00f5ff&line=ffd700&point=ffffff&area=true&hide_border=true&area_color=004e92" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Current Focus
+
+</div>
+
+```javascript
+const haruLearningStatus = {
+  currentProject: {
+    name: "🎯 Matcha",
+    description: "My first Rails app - learning as I build!",
+    repository: "https://github.com/Prog0123/Matcha",
+    status: "🌱 Work in progress"
+  },
+  
+  studyPlan: {
+    frontend: ["HTML/CSS basics", "JavaScript fundamentals"],
+    backend: ["Ruby syntax", "Rails conventions"],
+    tools: ["Git workflow", "VS Code shortcuts"],
+    next: ["Maybe TypeScript?", "React looks cool!"]
+  },
+  
+  learningGoals: [
+    "🚀 Complete my first Rails app",
+    "📚 Understand MVC pattern", 
+    "🐛 Get better at debugging",
+    "💪 Write cleaner code",
+    "🌟 Maybe help other beginners"
+  ],
+  
+  mindset: "Every bug is a lesson, every error is growth",
+  
+  confession: "I still Google 'how to exit vim' sometimes 😅"
+};
+```
+
+---
+
+<div align="center">
+
+## 🌟 Projects I'm Working On
+
+</div>
+
+<div align="center">
+
+[![Matcha](https://github-readme-stats.vercel.app/api/pin/?username=Prog0123&repo=Matcha&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=00f5ff&text_color=ffffff)](https://github.com/Prog0123/Matcha)
+
+*🌱 Learning by building, one commit at a time...*
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Prog0123.Prog0123&style=flat-square&color=00f5ff)
+
+<sub>⭐️ From [Haru](https://github.com/Prog0123) - Still learning, always growing 🌱</sub>
+
+</div>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>Let's learn together!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40">
+
+</div>
