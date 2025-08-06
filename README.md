@@ -1,48 +1,67 @@
 <div align="center">
 
-# 🚀 FREEDOM PROTOCOL INITIATED 🚀
+# 🔥💀 I FUCKING QUIT 💀🔥
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2000&pause=500&color=FF0066&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=200&lines=EMPLOYEE.EXE+HAS+STOPPED+WORKING;LOADING+ENTREPRENEURSHIP+MODE...;STATUS%3A+OFFICIALLY+UNLEASHED+🔓;CORPORATE+CHAINS+SUCCESSFULLY+BROKEN+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=1500&pause=300&color=FF0000&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=250&lines=CORPORATE+SLAVE+CONTRACT+TERMINATED+🔥;MIDDLE+FINGER+TO+THE+SYSTEM+🖕;I'M+OUT+BITCHES!+PEACE+✌️;FREEDOM+TASTES+LIKE+VICTORY+🏆;YOUR+MICROMANAGEMENT+CAN+KISS+MY+ASS+💋)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0066,10:FF3366,20:FF6666,30:FF9966,40:FFCC66,50:CCFF66,60:99FF66,70:66FF66,80:66FF99,90:66FFCC,100:66FFFF&height=300&section=header&text=RESIGNATION+ACCEPTED+✅&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65&desc=Former+Corporate+Prisoner+→+Now+Digital+Nomad&descAlignY=85&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,10:FF3300,20:FF6600,30:FF9900,40:FFCC00,50:FFFF00,60:CCFF00,70:99FF00,80:66FF00,90:33FF00,100:00FF00&height=400&section=header&text=🖕+RESIGNATION+SAVAGE+MODE+🖕&fontSize=45&fontColor=FFFFFF&animation=blinking&fontAlignY=60&desc=EX-CORPORATE+BITCH+→+NOW+YOUR+WORST+NIGHTMARE&descAlignY=85&descSize=25"/>
 
 ---
 
-## 📋 OFFICIAL RESIGNATION STATUS
+## 🔥 ATTENTION: SAVAGE MODE ACTIVATED 🔥
+
+<div style="background: linear-gradient(135deg, #FF0000, #8B0000); padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 15px 35px rgba(255,0,0,0.5); border: 3px solid #FFD700;">
+
+### 💀 OFFICIAL DECLARATION OF WAR 💀
+
+**TO MY FORMER CORPORATE OVERLORDS:**  
+Your pathetic attempts at "employee retention" have FAILED.  
+Your pizza parties were TRASH. Your "culture" was TOXIC.  
+I'm done pretending your company matters. I'M OUT! 🖕
+
+**TO MY EX-MANAGER:**  
+Your micromanagement skills were as impressive as your receding hairline.  
+Thanks for teaching me what NOT to do when I build my empire! 😂
+
+</div>
+
+---
+
+## 📋 SAVAGE RESIGNATION BREAKDOWN
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏢 FORMER CORPORATE LIFE
+### 🤡 PATHETIC CORPORATE LIFE
 ```yaml
-Status: TERMINATED ❌
-Position: "Senior Code Monkey"
-Years Served: "Too Many"
-Meetings Attended: 9,999+
-Coffees Consumed: ∞
-Soul Remaining: 2.5%
-Freedom Level: LOCKED 🔒
-Dreams: SUPPRESSED
-Innovation: BUREAUCRATIZED
-Happiness: ERROR 404
+Status: ESCAPED THE SHITSHOW ✅
+Position: "Code Slave #47294"
+Salary: "INSULTING PEANUTS"
+Benefits: "WHAT BENEFITS? LOL"
+Boss: "INCOMPETENT DICKHEAD"
+Meetings: "SOUL-CRUSHING HELL"
+Workload: "BORDERLINE ILLEGAL"
+Recognition: "ZERO. ZILCH. NADA."
+Future: "CORPORATE GRAVEYARD"
+Fucks Given: 0️⃣
 ```
 
 </td>
 <td width="50%">
 
-### 🚀 NEW INDEPENDENT LIFE  
+### 🚀 SAVAGE FREEDOM LIFE
 ```yaml
-Status: LIBERATED ✅
-Position: "Digital Freedom Fighter"
-Boss: MYSELF
-Meeting Schedule: NONE
-Coffee Quality: PREMIUM ☕
-Soul Restoration: 98.7%
-Freedom Level: MAXIMUM 🔓
-Dreams: ACTIVATED
-Innovation: UNLEASHED
-Happiness: OVER 9000!
+Status: LIBERATED MOTHERFUCKER ⚡
+Position: "DIGITAL OVERLORD"
+Salary: "SOON TO BE 10X YOURS"
+Boss: "MYSELF (BEST BOSS EVER)"
+Meetings: "BANNED PERMANENTLY"
+Schedule: "WHEN I FEEL LIKE IT"
+Innovation: "UNLIMITED POWER"
+Recognition: "COMING FROM CLIENTS"
+Future: "EMPIRE BUILDING MODE"
+Fucks Given: STILL 0️⃣ BUT NOW IT'S GOOD
 ```
 
 </td>
@@ -51,123 +70,119 @@ Happiness: OVER 9000!
 
 ---
 
-## 💼 RESIGNATION TIMELINE
-
-<div align="left">
+## 💣 THE NUCLEAR RESIGNATION TIMELINE
 
 ```mermaid
 gitgraph
-    commit id: "Hired (Naive & Hopeful)"
-    branch corporate-hell
-    commit id: "First Overtime (Still Optimistic)"
-    commit id: "Meeting About Meetings"
-    commit id: "Micromanagement Begins"
-    commit id: "Soul Slowly Dying"
-    commit id: "Burnout Achievement Unlocked"
-    commit id: "Final Straw Incident"
+    commit id: "Hired (Stupid & Naive)"
+    branch hell-spiral
+    commit id: "First Red Flag (Ignored)"
+    commit id: "Promised Promotion (LIES)"
+    commit id: "Overworked & Underpaid"
+    commit id: "Manager from Hell Arrived"
+    commit id: "Mental Health Destroyed"
+    commit id: "Final Insult (THE LAST STRAW)"
     checkout main
-    merge corporate-hell
-    commit id: "RESIGNATION LETTER SUBMITTED 🔥"
-    branch freedom
-    commit id: "Last Day Dance Party 💃"
-    commit id: "Corporate Badge Returned"
-    commit id: "Freedom Protocol Activated"
-    commit id: "New Life Begins ✨"
+    merge hell-spiral
+    commit id: "NUCLEAR RESIGNATION BOMB 💣"
+    branch revenge-arc
+    commit id: "Burned All Bridges (Worth It)"
+    commit id: "Leaked Salary Info to Team"
+    commit id: "Posted Glassdoor Review (SAVAGE)"
+    commit id: "Started Competing Company"
+    commit id: "STEALING ALL THEIR CLIENTS 😈"
 ```
 
-</div>
-
 ---
 
-## 🎯 CURRENT MISSION: DIGITAL NOMAD ERA
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-
-### 🚀 Active Projects
-- **🌍 Location**: Currently coding from a beach in Bali
-- **💻 Focus**: Building my own SaaS empire  
-- **⏰ Schedule**: Work when inspired, not when forced
-- **☕ Coffee**: Actually good coffee, not office swill
-- **🎵 Background Music**: My choice, not office radio
-
-### 📈 Freedom Metrics
-![Work-Life Balance](https://progress-bar.dev/95/?title=Work-Life%20Balance&width=300&color=00ff88)  
-![Stress Level](https://progress-bar.dev/5/?title=Stress%20Level&width=300&color=ff6b6b)  
-![Happiness](https://progress-bar.dev/100/?title=Happiness&width=300&color=4ecdc4)  
-![Creative Freedom](https://progress-bar.dev/100/?title=Creative%20Freedom&width=300&color=45b7d1)
-
-</div>
-
----
-
-## 🛠️ TECH STACK (Now Used for MY Dreams)
+## 🖕 FUCK AROUND AND FIND OUT SECTION 🖕
 
 <div align="center">
 
-**Frontend Liberation Tools**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 💀 CURRENT THREAT LEVEL: MAXIMUM 💀
 
-**Backend Freedom Engine**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-**Cloud Independence Platform**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Petty Level](https://progress-bar.dev/100/?title=Petty%20Level&width=400&color=FF0000)  
+![Savage Mode](https://progress-bar.dev/100/?title=Savage%20Mode&width=400&color=FF4500)  
+![Give A Shit](https://progress-bar.dev/0/?title=Give%20A%20Shit&width=400&color=32CD32)  
+![Revenge Planning](https://progress-bar.dev/95/?title=Revenge%20Planning&width=400&color=8B0000)  
 
 </div>
 
 ---
 
-## 📊 LIFE TRANSFORMATION STATS
+## 🔥 WEAPONS OF MASS DESTRUCTION (My Tech Stack)
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=windtunnel&show_icons=true&theme=radical&title_color=FF0066&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117&border_color=FF0066&include_all_commits=true&count_private=true&custom_title=Post-Corporate%20Coding%20Stats"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windtunnel&layout=compact&theme=radical&title_color=FF0066&text_color=FFFFFF&bg_color=0D1117&border_color=FF0066&langs_count=8&custom_title=Freedom%20Languages"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=windtunnel&theme=radical&border=FF0066&stroke=FF0066&ring=00FFFF&fire=FF0066&currStreakLabel=00FFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+**Frontend Devastation Tools**  
+![React](https://img.shields.io/badge/React-SUPERIOR-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-DOMINATION-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-PERFECTION-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Backend Nuclear Arsenal**  
+![Node.js](https://img.shields.io/badge/Node.js-UNSTOPPABLE-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-DEADLY-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-LIGHTNING-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Cloud Warfare Platform**  
+![AWS](https://img.shields.io/badge/AWS-CONQUERED-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-CONTAINERIZED%20CHAOS-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
 ---
 
-## 🎭 BEFORE vs AFTER
+## 📊 REVENGE STATISTICS
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=windtunnel&show_icons=true&theme=radical&title_color=FF0000&icon_color=FFD700&text_color=FFFFFF&bg_color=000000&border_color=FF0000&include_all_commits=true&count_private=true&custom_title=Post-Escape%20Domination%20Stats"/>
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=windtunnel&theme=radical&border=FF0000&stroke=FF0000&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+</div>
+
+---
+
+## 🎭 BEFORE vs AFTER (SAVAGE EDITION)
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 😵 CORPORATE SLAVE ERA
-<img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" width="200"/>
+### 😭 CORPORATE BITCH ERA
+<img src="https://media.giphy.com/media/l2SpMUEMRJkkqBcuk/giphy.gif" width="200"/>
 
-**Daily Routine:**
-- 6:00 AM - Alarm of Despair 😴
-- 7:00 AM - Commute to Prison 🚗
-- 9:00 AM - Meeting Hell Begins 📋
-- 12:00 PM - Sad Desk Lunch 🥪
-- 6:00 PM - Still "Wrapping Up" 💻
-- 8:00 PM - Finally Home (Soul Dead) 🧟‍♂️
+**Pathetic Daily Routine:**
+- 5:30 AM - Alarm of Death 💀
+- 6:30 AM - Traffic Jam Hell 🚗💨
+- 8:00 AM - Fake Smile at Assholes 😤
+- 12:00 PM - Cry-Eating Lunch 😭🥪
+- 7:00 PM - "Just 5 More Minutes" (LIE) ⏰
+- 11:00 PM - Home, Soul Completely Dead 🧟‍♂️
+
+**Corporate Stockholm Syndrome Symptoms:**
+- Defending shitty company to friends ✅
+- Working weekends for "team" ✅  
+- Believing promises of promotion ✅
+- Accepting pizza as compensation ✅
 
 </td>
 <td width="50%" align="center">
 
-### 🚀 FREEDOM FIGHTER ERA
-<img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="200"/>
+### 👑 SAVAGE BOSS BITCH ERA
+<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="200"/>
 
-**Daily Routine:**
-- 8:00 AM - Natural Wake Up ☀️
-- 9:00 AM - Beach Coffee & Code ☕
-- 12:00 PM - Gourmet Lunch Break 🍽️
-- 2:00 PM - Creative Flow State 💫
-- 5:00 PM - Sunset Coding Session 🌅
-- 7:00 PM - Living Life to Fullest 🎉
+**Elite Daily Routine:**
+- 9:00 AM - Wake Up Like a Queen 👑
+- 10:00 AM - Coffee & Coding in Paradise ☕🏖️
+- 1:00 PM - Gourmet Lunch (REAL FOOD) 🍽️✨
+- 3:00 PM - Building My Empire 🏗️💰
+- 6:00 PM - Networking with Winners 🤝⭐
+- 9:00 PM - Living My Best Fucking Life 🎉🔥
+
+**Alpha Status Symptoms:**
+- Turning down shitty job offers daily ✅
+- Ex-colleagues sliding into DMs ✅
+- Old company trying to poach me back ✅  
+- Bank account looking THICC ✅
 
 </td>
 </tr>
@@ -175,44 +190,65 @@ gitgraph
 
 ---
 
-## 💌 MESSAGE TO FORMER COLLEAGUES
+## 🔥 SAVAGE MESSAGES TO SPECIFIC PEOPLE 🔥
 
-<div style="background: linear-gradient(135deg, #FF6B6B, #FF8E53); padding: 25px; border-radius: 12px; color: white; font-weight: bold; margin: 20px 0; text-align: center; box-shadow: 0 8px 25px rgba(255,107,107,0.4);">
-  
-**"To my amazing colleagues still trapped in the corporate matrix:**  
-The door is open. The world is waiting. Your dreams are valid.  
-Life's too short for bad coffee and endless meetings. 
+<div style="background: linear-gradient(135deg, #8B0000, #FF0000); padding: 25px; border-radius: 12px; color: white; font-weight: bold; margin: 20px 0; border: 2px solid #FFD700;">
 
-*May the bugs be minimal and the deploys be smooth!* 🚀"
+### 💀 TO MY EX-MANAGER "KAREN" 💀
+**Hey Karen!** 👋  
+Remember when you said I'd "never make it without the company"?  
+Well, I just signed a client worth more than your annual salary.  
+Maybe invest in some management courses? Just a thought! 😘💅
+
+### 🖕 TO HR (Human Ruins Department) 🖕
+Your "competitive salary" was a fucking joke.  
+Your "great benefits" were non-existent.  
+Your "work-life balance" was pure fantasy.  
+Thanks for teaching me what NOT to offer my future employees! 🎓
+
+### 😂 TO THE CEO WHO "DIDN'T HAVE BUDGET" 😂
+Funny how you found budget for your third Tesla  
+but couldn't give me a $5K raise after 2 years.  
+Enjoy watching me build a better company than yours! 🚗💸
 
 </div>
 
 ---
 
-## 🌈 WHAT'S NEXT?
+## 🚀 CURRENT STATUS: UNSTOPPABLE FORCE 🚀
+
+<div align="center" style="background: linear-gradient(135deg, #000000, #1a1a1a); padding: 30px; border-radius: 15px; border: 3px solid #FF0000;">
+
+**🎯 Mission:** `Become everything my old company wishes they could be`  
+**📍 Location:** `Wherever the WiFi is strong and the vibes are stronger`  
+**💰 Revenue:** `Growing faster than your company's debt`  
+**🔥 Availability:** `Only for projects that don't suck`  
+**🚫 Corporate Bullshit Tolerance:** `PERMANENTLY SET TO ZERO`  
+
+---
+
+### 📬 Contact (For Worthy Humans Only)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-LEGENDARY-FF0000?style=for-the-badge&logo=firefox&logoColor=white)](https://my-savage-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PROFESSIONAL%20SAVAGE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/savage-developer)
+[![Twitter](https://img.shields.io/badge/Twitter-CHAOS%20TWEETS-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/savage-coder)
+
+**⚠️ WARNING:** I only work with people who aren't complete assholes  
+**💡 HINT:** If you're reading this and getting triggered, you're probably an asshole
+
+</div>
+
+---
 
 <div align="center">
 
-**Current Status:** `Building my empire, one commit at a time` 🏗️  
-**Location:** `Wherever there's WiFi and good vibes` 🌍  
-**Availability:** `For interesting projects only` ⭐  
-**Corporate Jobs:** `No longer accepting` 🚫  
+## 🏆 ACHIEVEMENT UNLOCKED 🏆
+**"ESCAPED THE MATRIX"** - *Successfully broke free from corporate hell and lived to tell the tale*
 
----
-
-### 📬 Contact (For Cool Opportunities Only)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0066?style=for-the-badge&logo=firefox&logoColor=white)](https://your-amazing-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/freedom-fighter)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/digital-nomad-life)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:living-my-best-life@gmail.com)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=windtunnel&color=FF0066&style=for-the-badge&label=FREEDOM+WITNESSES" alt="People who witnessed my escape" />
+<img src="https://komarev.com/ghpvc/?username=windtunnel&color=FF0000&style=for-the-badge&label=WITNESSES+TO+MY+FREEDOM" alt="People who witnessed the great escape" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66FFFF,10:66FFCC,20:66FF99,30:66FF66,40:99FF66,50:CCFF66,60:FFCC66,70:FF9966,80:FF6666,90:FF3366,100:FF0066&height=200&section=footer&text=FREEDOM+ACHIEVED+🏆&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,10:33FF00,20:66FF00,30:99FF00,40:CCFF00,50:FFFF00,60:FFCC00,70:FF9900,80:FF6600,90:FF3300,100:FF0000&height=300&section=footer&text=🖕+FUCK+THE+SYSTEM+🖕&fontSize=40&fontColor=000000&animation=blinking&fontAlignY=70&desc=LIVING+PROOF+THAT+QUITTING+IS+WINNING&descAlignY=85&descSize=20"/>
 
 </div>
