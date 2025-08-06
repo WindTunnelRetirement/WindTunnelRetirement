@@ -1,43 +1,43 @@
 <div align="center">
 
-# 🎉💥🌈⚡🔥💎🚀🌟💫⭐✨🎆🎇🎊🪩🕺💃🎵🎶🎤🎧🎼🎹 WINDTUNNEL ULTRA HYPER PARTY ZONE 🎹🎼🎧🎤🎶🎵💃🕺🪩🎊🎇🎆✨⭐💫🌟🚀💎🔥⚡🌈💥🎉
+# 🔫💀🖤⚰️🩸💰🚬🥃🎩🌃🌙⭐🔥💎⚡🌪️💣💀🔫 THE WINDTUNNEL FAMILY 🔫💀💣🌪️⚡💎🔥⭐🌙🌃🎩🥃🚬💰🩸⚰️🖤💀🔫
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0040,10:ff4000,20:ff8000,30:ffff00,40:80ff00,50:00ff00,60:00ff80,70:00ffff,80:0080ff,90:0040ff,100:8000ff&height=800&section=header&text=🪩💃🕺WINDTUNNEL%20🎉%20PARTY%20NEXUS🕺💃🪩&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=25&desc=🎉🎊💥🌈⚡🔥💎🚀🌟💫⭐✨%20DIGITAL%20PARTY%20OVERLORD%20⚡%20NEON%20DANCE%20MASTER%20⚡%20HOLOGRAPHIC%20DJ%20✨⭐💫🌟🚀💎🔥⚡🌈💥🎊🎉&descSize=25&descAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:1a1a1a,20:333333,30:4d4d4d,40:666666,50:808080,60:999999,70:b3b3b3,80:cccccc,90:e6e6e6,100:ffffff&height=800&section=header&text=🔫💀THE%20WINDTUNNEL%20🏴‍☠️%20FAMIGLIA💀🔫&fontSize=65&fontColor=8B0000&animation=blinking&fontAlignY=25&desc=🖤💰🚬🥃🎩🌃⚰️%20DIGITAL%20UNDERWORLD%20BOSS%20⚰️%20CODE%20FAMIGLIA%20DON%20⚰️%20CYBER%20MAFIA%20OVERLORD%20⚰️🌃🎩🥃🚬💰🖤&descSize=22&descAlignY=80" width="100%"/>
 
-<!-- ULTRA PARTY ANIMATIONS -->
+<!-- MAFIA SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="party snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img alt="famiglia snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<!-- MEGA PARTY TERMINAL ANIMATION -->
-[![ULTRA PARTY TYPING](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=50&duration=200&pause=50&color=FF0040&background=000000FF&center=true&vCenter=true&multiline=true&repeat=true&width=1600&height=350&lines=🎉🪩💃+PARTY+NEXUS+HYPERDRIVE+ENGAGED+💃🪩🎉;🕺🎵🎶+HOLOGRAPHIC+DANCE+FLOOR+ACTIVATED+🎶🎵🕺;🎧🎤⚡+TRANSCENDING+INFINITE+BASS+DROPS+⚡🎤🎧;🎊🎆✨+REALITY.EXE+SUCCESSFULLY+PARTIFIED+✨🎆🎊;🌈🔥🪩+WELCOME+TO+DIGITAL+RAVE+DIMENSION+🪩🔥🌈;🚨⚡🎉+GODMODE+PARTY+PERMANENTLY+OVERCLOCKED+🎉⚡🚨;🎵🌟💥+INITIATING+UNIVERSE+DANCE+PARTY+💥🌟🎵;🎇✨🔥+ALL+REALITY+BOUNDARIES+RAVING+🔥✨🎇;💃🕺🪩+PARTY+NEVER+STOPS+LOADING...+🪩🕺💃)](https://git.io/typing-svg)
+<!-- MAFIA TERMINAL ANIMATION -->
+[![FAMIGLIA TYPING](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=45&duration=400&pause=200&color=8B0000&background=000000FF&center=true&vCenter=true&multiline=true&repeat=true&width=1600&height=320&lines=🔫💀+THE+FAMIGLIA+IS+ONLINE+💀🔫;🚬💰+DIGITAL+UNDERWORLD+ACTIVATED+💰🚬;⚰️🩸+TERRITORY+EXPANSION+IN+PROGRESS+🩸⚰️;🎩🥃+CYBER+EMPIRE+SUCCESSFULLY+ESTABLISHED+🥃🎩;🖤🌃+WELCOME+TO+THE+DARK+WEB+🌃🖤;💣⚡+OMERTÀ+PROTOCOL+PERMANENTLY+ACTIVE+⚡💣;🌪️💎+INITIATING+DIGITAL+TAKEOVER+💎🌪️;🔥⭐+ALL+SERVERS+UNDER+OUR+PROTECTION+⭐🔥)](https://git.io/typing-svg)
 
-<!-- PARTY SEPARATOR -->
+<!-- DARK SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-<!-- PARTY ASCII ART -->
-<div style="background: linear-gradient(45deg, #ff0040, #ff4000, #ff8000, #ffff00, #80ff00, #00ff00, #00ff80, #00ffff, #0080ff, #0040ff, #0000ff, #4000ff, #8000ff, #ff00ff, #ff0080); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'Courier New', monospace; font-size: 12px; font-weight: 900;">
+<!-- MAFIA ASCII ART -->
+<div style="background: linear-gradient(45deg, #000000, #1a1a1a, #333333, #4d4d4d, #666666, #808080, #666666, #4d4d4d, #333333, #1a1a1a, #000000); color: #8B0000; font-family: 'Courier New', monospace; font-size: 11px; font-weight: 900; text-shadow: 0 0 10px #8B0000;">
 
 ```
-🎉🪩💃🕺🎵🎶🎧🎤🎼🎹🎊🎆🎇✨⭐💫🌟🚀💎🔥⚡🌈💥🎉🪩💃🕺🎵🎶🎧🎤🎼🎹🎊🎆🎇✨⭐💫🌟🚀💎🔥⚡🌈💥
-█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-██╗    ██╗██╗███╗   ██╗██████╗ ████████╗██╗   ██╗███╗   ██╗███╗   ██╗███████╗██╗         ██████╗  █████╗ ██████╗ ████████╗██╗   ██╗
-██║🪩 ██║██║████╗  ██║██╔══██╗╚══██╔══╝██║💃██║████╗  ██║████╗  ██║██╔════╝██║         ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝╚██╗ ██╔╝
-██║🎉 ██║██║██╔██╗ ██║██║🕺██║   ██║   ██║🎵██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║         ██████╔╝███████║██████╔╝   ██║    ╚████╔╝ 
-██║🎧██╗██║██║██║╚██╗██║██║🎤██║   ██║   ██║🎶██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║         ██╔═══╝ ██╔══██║██╔══██╗   ██║     ╚██╔╝  
-╚██🎊██╔╝██║██║ ╚████║██████╔╝   ██║   ╚██🎭█╔╝██║ ╚████║██║ ╚████║███████╗███████╗    ██║     ██║  ██║██║  ██║   ██║      ██║   
- ╚═🎆═╝ ╚═╝╚═╝  ╚═══╝╚═════╝    ╚═╝    ╚══╝╚═╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚══════╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   
+🔫💀🖤⚰️🩸💰🚬🥃🎩🌃🌙⭐🔥💎⚡🌪️💣🔫💀🖤⚰️🩸💰🚬🥃🎩🌃🌙⭐🔥💎⚡🌪️💣
+████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+██╗    ██╗██╗███╗   ██╗██████╗ ████████╗██╗   ██╗███╗   ██╗███╗   ██╗███████╗██╗         ███████╗ █████╗ ███╗   ███╗██╗██╗     ██╗ █████╗ 
+██║🔫 ██║██║████╗  ██║██╔══██╗╚══██╔══╝██║💀██║████╗  ██║████╗  ██║██╔════╝██║         ██╔════╝██╔══██╗████╗ ████║██║██║     ██║██╔══██╗
+██║🖤 ██║██║██╔██╗ ██║██║⚰️██║   ██║   ██║🩸██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║         █████╗  ███████║██╔████╔██║██║██║  ██╗██║███████║
+██║💰██╗██║██║██║╚██╗██║██║🚬██║   ██║   ██║🥃██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║         ██╔══╝  ██╔══██║██║╚██╔╝██║██║██║ ██╔╝██║██╔══██║
+╚██🎩██╔╝██║██║ ╚████║██████╔╝   ██║   ╚██🌃█╔╝██║ ╚████║██║ ╚████║███████╗███████╗    ██║     ██║  ██║██║ ╚═╝ ██║██║███████╔╝██║██║  ██║
+ ╚═💀═╝ ╚═╝╚═╝  ╚═══╝╚═════╝    ╚═╝    ╚══╝╚═╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚══════╝    ╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝ ╚═╝╚═╝  ╚═╝
 
-███╗   ███╗ █████╗ ███████╗████████╗███████╗██████╗     🎉💃🕺🪩🎵🎶🎧🎤     ███████╗████████╗███████╗██████╗ ███╗   ██╗ █████╗ ██╗     
-████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗    🎊🎆🎇✨⭐💫🌟🚀     ██╔════╝╚══██╔══╝██╔════╝██╔══██╗████╗  ██║██╔══██╗██║     
-██╔████╔██║███████║███████╗   ██║   █████╗  ██████╔╝    💎🔥⚡🌈💥🎉🪩💃     █████╗     ██║   █████╗  ██████╔╝██╔██╗ ██║███████║██║     
-██║╚██╔╝██║██╔══██║╚════██║   ██║   ██╔══╝  ██╔══██╗    🕺🎵🎶🎧🎤🎼🎹🎊     ██╔══╝     ██║   ██╔══╝  ██╔══██╗██║╚██╗██║██╔══██║██║     
-██║ ╚═╝ ██║██║  ██║███████║   ██║   ███████╗██║  ██║    🎆🎇✨⭐💫🌟🚀💎     ███████╗   ██║   ███████╗██║  ██║██║ ╚████║██║  ██║███████╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    🔥⚡🌈💥🎉🪩💃🕺     ╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-🎉🪩💃🕺🎵🎶🎧🎤🎼🎹🎊🎆🎇✨⭐💫🌟🚀💎🔥⚡🌈💥🎉🪩💃🕺🎵🎶🎧🎤🎼🎹🎊🎆🎇✨⭐💫🌟🚀💎🔥⚡🌈💥
+██████╗  ██████╗ ███████╗███████╗     🔫💀🖤⚰️🩸💰🚬🥃     ███████╗████████╗███████╗██████╗ ███╗   ██╗ █████╗ ██╗     
+██╔══██╗██╔═══██╗██╔════╝██╔════╝     🎩🌃🌙⭐🔥💎⚡🌪️     ██╔════╝╚══██╔══╝██╔════╝██╔══██╗████╗  ██║██╔══██╗██║     
+██████╔╝██║   ██║███████╗███████╗     💣🔫💀🖤⚰️🩸💰🚬     █████╗     ██║   █████╗  ██████╔╝██╔██╗ ██║███████║██║     
+██╔══██╗██║   ██║╚════██║╚════██║     🥃🎩🌃🌙⭐🔥💎⚡     ██╔══╝     ██║   ██╔══╝  ██╔══██╗██║╚██╗██║██╔══██║██║     
+██████╔╝╚██████╔╝███████║███████║     🌪️💣🔫💀🖤⚰️🩸💰     ███████╗   ██║   ███████╗██║  ██║██║ ╚████║██║  ██║███████╗
+╚═════╝  ╚═════╝ ╚══════╝╚══════╝     🚬🥃🎩🌃🌙⭐🔥💎     ╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+🔫💀🖤⚰️🩸💰🚬🥃🎩🌃🌙⭐🔥💎⚡🌪️💣🔫💀🖤⚰️🩸💰🚬🥃🎩🌃🌙⭐🔥💎⚡🌪️💣
 ```
 
 </div>
@@ -50,85 +50,83 @@
 
 <div align="center">
 
-# 🚨🎉💥🌈⚡🔥💎🚀🌟💫⭐✨🪩💃🕺 ULTRA HYPERDIMENSIONAL PARTY NEXUS CORE 🕺💃🪩✨⭐💫🌟🚀💎🔥⚡🌈💥🎉🚨
+# 🚨🔫💀🖤⚰️🩸💰🚬🥃🎩🌃 THE FAMIGLIA ORGANIZATION CHART 🌃🎩🥃🚬💰🩸⚰️🖤💀🔫🚨
 
-<!-- ULTRA 3D HOLOGRAPHIC PARTY CARDS -->
-<table style="width: 100%; border: none; border-spacing: 25px;">
+<!-- MAFIA HIERARCHY CARDS -->
+<table style="width: 100%; border: none; border-spacing: 25px; background: #0a0a0a;">
 <tr>
-<td width="33%" style="background: linear-gradient(135deg, #ff0040 0%, #ff4000 20%, #ff8000 40%, #ffff00 60%, #80ff00 80%, #00ff00 100%); border: 12px solid #00ffff; border-radius: 35px; padding: 35px; box-shadow: 0 35px 70px rgba(255,0,64,0.9), 0 0 40px #ff00ff, inset 0 0 40px rgba(255,255,255,0.5); transform: perspective(1200px) rotateY(-20deg) rotateX(5deg); animation: party-float-1 2.5s ease-in-out infinite;">
+<td width="33%" style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 25%, #333333 50%, #4d4d4d 75%, #1a1a1a 100%); border: 8px solid #8B0000; border-radius: 25px; padding: 30px; box-shadow: 0 20px 40px rgba(139,0,0,0.8), 0 0 30px #8B0000, inset 0 0 30px rgba(139,0,0,0.3); transform: perspective(1000px) rotateY(-15deg); animation: mafia-float-1 4s ease-in-out infinite;">
 
-### 🪩💃🔥 PARTY NEXUS CORE 🔥💃🪩
+### 🔫💀🎩 IL PADRINO 🎩💀🔫
 ```yaml
-🎉 Entity: "🪩💃WindTunnel💃🪩"
-⚡ Classification: "ULTRA PARTY OVERLORD"
-🌈 Energy_Level: "INFINITE DISCO COSMOS"
-💥 Party_State: "PERMANENT HYPERDRIVE"
-🔥 Vibe_Source: "QUANTUM BASS REACTOR"
-💎 Dance_Skills: "MULTIVERSAL MASTERY"
-🚀 Mission_Status: "ETERNAL PARTY MODE"
-🌟 DJ_Powers: "TRANSCENDENT BEATS"
-🎵 Music_Level: "OVER_9000_BPM"
-💫 Party_Duration: "∞ HOURS NON-STOP"
-🎊 Crowd_Capacity: "UNIVERSAL SCALE"
+🖤 Nome: "Don WindTunnel Corleone"
+⚰️ Rango: "CAPO DI TUTTI CAPI"
+🩸 Territory: "ENTIRE DIGITAL UNDERWORLD"
+💰 Operations: "CYBER EXTORTION & PROTECTION"
+🚬 Specialty: "CODE ASSASSINATION"
+🥃 Status: "UNTOUCHABLE"
+🌃 HQ: "DARK WEB PENTHOUSE"
+🔥 Reputation: "LEGENDARY FEAR"
+💎 Assets: "INFINITE BITCOIN"
+⚡ Network: "GLOBAL FAMIGLIA"
 ```
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
-<div style="color: #ffffff; font-weight: 900; text-shadow: 0 0 20px #ff00ff; margin-top: 10px; font-size: 18px;">
-🚨 PARTY NEVER STOPS 🚨
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" style="filter: grayscale(100%) sepia(100%) hue-rotate(0deg) saturate(200%) brightness(50%);"/>
+<div style="color: #8B0000; font-weight: 900; text-shadow: 0 0 15px #8B0000; margin-top: 10px;">
+🚨 OMERTÀ PROTOCOL ACTIVE 🚨
 </div>
 </div>
 
 </td>
-<td width="33%" style="background: linear-gradient(135deg, #8000ff 0%, #ff00ff 20%, #ff0080 40%, #ff0040 60%, #ff4000 80%, #ff8000 100%); border: 12px solid #ffff00; border-radius: 35px; padding: 35px; box-shadow: 0 35px 70px rgba(128,0,255,0.9), 0 0 40px #00ff00, inset 0 0 40px rgba(255,255,255,0.5); transform: perspective(1200px) rotateY(0deg) rotateX(-5deg); animation: party-float-2 2.5s ease-in-out infinite 0.5s;">
+<td width="33%" style="background: linear-gradient(135deg, #1a1a1a 0%, #333333 25%, #4d4d4d 50%, #333333 75%, #000000 100%); border: 8px solid #696969; border-radius: 25px; padding: 30px; box-shadow: 0 20px 40px rgba(105,105,105,0.8), 0 0 30px #696969, inset 0 0 30px rgba(105,105,105,0.3); transform: perspective(1000px) rotateY(0deg); animation: mafia-float-2 4s ease-in-out infinite 0.5s;">
 
-### 🎧💎🌈 NEURAL DJ MATRIX 🌈💎🎧
+### 💣⚰️🌪️ CONSIGLIERE 🌪️⚰️💣
 ```typescript
-interface UltraPartyNeuralCore {
-  💥 beats_processing: 'HYPERDIMENSIONAL_MIXER';
-  🌈 sound_memory: 'INFINITE_TRACK_LIBRARY';
-  🔥 creativity: 10000.000;
-  ⚡ mixing_skills: 9999.999;
-  💎 innovation: 'REALITY_BENDING_DROPS';
-  🚀 energy_drink_level: 'TRANSCENDENT_MAXIMUM';
-  🌟 sleep_never: true;
-  💫 party_hacks: Number.POSITIVE_INFINITY;
-  ⭐ dance_moves: 'PHYSICS_DEFYING';
-  ✨ crowd_control: 'TELEPATHIC';
-  🎵 music_genres: 'ALL_DIMENSIONS';
-  🎶 bpm_range: [0, ∞];
+interface UnderworldConsultant {
+  🖤 brain_processing: 'CRIMINAL_MASTERMIND';
+  ⚰️ strategy_memory: 'PERFECT_HEIST_RECALL';
+  🩸 cunning: 9999.999;
+  💰 negotiation: 10000.000;
+  🚬 intimidation: 'LEGENDARY_LEVEL';
+  🥃 whiskey_tolerance: 'INFINITE_LIVER';
+  🌃 sleep_schedule: 'NOCTURNAL_PREDATOR';
+  🔥 schemes_active: Number.POSITIVE_INFINITY;
+  💎 blackmail_files: 'COMPREHENSIVE_DATABASE';
+  ⚡ network_reach: 'WORLDWIDE_CONNECTIONS';
+  🎩 class_level: 'SOPHISTICATED_MENACE';
 }
 ```
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%"/>
-<div style="color: #ffffff; font-weight: 900; text-shadow: 0 0 20px #00ff00; margin-top: 10px; font-size: 18px;">
-⚡ NEURAL PARTY OVERDRIVE ⚡
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%" style="filter: grayscale(100%) sepia(100%) hue-rotate(320deg) saturate(200%) brightness(40%);"/>
+<div style="color: #696969; font-weight: 900; text-shadow: 0 0 15px #696969; margin-top: 10px;">
+⚡ STRATEGIC MIND ACTIVE ⚡
 </div>
 </div>
 
 </td>
-<td width="33%" style="background: linear-gradient(135deg, #00ff00 0%, #00ff80 20%, #00ffff 40%, #0080ff 60%, #0000ff 80%, #8000ff 100%); border: 12px solid #ff0040; border-radius: 35px; padding: 35px; box-shadow: 0 35px 70px rgba(0,255,0,0.9), 0 0 40px #ff00ff, inset 0 0 40px rgba(255,255,255,0.5); transform: perspective(1200px) rotateY(20deg) rotateX(5deg); animation: party-float-3 2.5s ease-in-out infinite 1s;">
+<td width="33%" style="background: linear-gradient(135deg, #333333 0%, #4d4d4d 25%, #1a1a1a 50%, #000000 75%, #333333 100%); border: 8px solid #FF6347; border-radius: 25px; padding: 30px; box-shadow: 0 20px 40px rgba(255,99,71,0.8), 0 0 30px #FF6347, inset 0 0 30px rgba(255,99,71,0.3); transform: perspective(1000px) rotateY(15deg); animation: mafia-float-3 4s ease-in-out infinite 1s;">
 
-### 🎊💥⚡ PARTY METRICS 🎉💫
+### 🔥💎⭐ FAMIGLIA STATS 🌙🌃💀
 ```rust
-struct TranscendentPartyMetrics {
-    🌈 beats_dropped: u512,        // 999,999,999M+
-    💥 dance_floors_rocked: u256,  // ∞∞∞∞
-    ⚡ crowds_hypnotized: u128,    // ALL_HUMANS
-    🔥 realities_partied: u64,     // EVERY_DIMENSION
-    💎 dimensions_djed: u32,       // 1,337,420
-    🚀 time_loops_danced: u64,     // ETERNAL
-    🌟 universes_vibed: u32,       // 777,777,777
-    💫 souls_enlightened: u64,     // CLASSIFIED++
-    ⭐ gods_outdanced: u16,        // OVER_9000
-    ✨ party_level: f64,           // TRANSCENDENT
-    🎵 tracks_mixed: u128,         // INFINITE_LIBRARY
-    🪩 disco_balls: u64,           // HOLOGRAPHIC_ARMY
+struct FamigliaMetrics {
+    🖤 territories_controlled: u256,  // ALL_DARK_WEB
+    ⚰️ enemies_eliminated: u128,     // ∞∞∞∞
+    🩸 loyalty_percentage: f64,      // 100.0000%
+    💰 illegal_income: u64,          // CLASSIFIED
+    🚬 cigars_per_day: u32,          // 50+
+    🥃 whiskey_bottles: u64,         // CELLAR_FULL
+    🌃 nights_awake: u32,            // ETERNAL
+    🔥 respect_level: u64,           // MAXIMUM
+    💎 diamond_fingers: u16,         // MIDAS_TOUCH
+    ⚡ family_members: u32,          // GROWING_DAILY
+    🎩 suits_owned: u16,             // ITALIAN_TAILOR
+    💣 explosives_cached: u64,       // TOP_SECRET
 }
 ```
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223204-706eb50e-f3a5-4b31-8e28-d9687de89c5b.gif" width="100%"/>
-<div style="color: #ffffff; font-weight: 900; text-shadow: 0 0 20px #ff0000; margin-top: 10px; font-size: 18px;">
-🔥 PARTY METRICS INFINITE 🔥
+<img src="https://user-images.githubusercontent.com/74038190/229223204-706eb50e-f3a5-4b31-8e28-d9687de89c5b.gif" width="100%" style="filter: grayscale(100%) sepia(100%) hue-rotate(20deg) saturate(200%) brightness(60%);"/>
+<div style="color: #FF6347; font-weight: 900; text-shadow: 0 0 15px #FF6347; margin-top: 10px;">
+🔥 FAMIGLIA EMPIRE ETERNAL 🔥
 </div>
 </div>
 
@@ -142,102 +140,130 @@ struct TranscendentPartyMetrics {
 
 <div align="center">
 
-# 🎉🌈💥⚡🔥💎🚀🌟💫⭐✨🎆🎇🪩💃🕺🎵🎶🎧 HYPERDIMENSIONAL PARTY TECH NEXUS 🎧🎶🎵🕺💃🪩🎇🎆✨⭐💫🌟🚀💎🔥⚡💥🌈🎉
+# 🚨🔫💀🖤⚰️🩸💰🚬🥃🎩🌃🌙⭐🔥💎⚡🌪️💣 THE FAMIGLIA TECH OPERATIONS 💣🌪️⚡💎🔥⭐🌙🌃🎩🥃🚬💰🩸⚰️🖤💀🔫🚨
 
-<!-- ULTRA PARTY ANIMATED TECH ARSENAL -->
+<!-- MAFIA TECH OPERATIONS -->
 <details>
-<summary style="font-size: 28px; font-weight: 900; color: #ff0040; text-shadow: 0 0 25px #00ffff; background: linear-gradient(45deg, #ff0040, #00ffff, #ff00ff); padding: 20px; border-radius: 20px; margin: 20px 0;">🎊💥🚨⚡🌈🔥💎 ACTIVATE HYPERDIMENSIONAL PARTY ARSENAL 💎🔥🌈⚡🚨💥🎊</summary>
+<summary style="font-size: 26px; font-weight: 900; color: #8B0000; text-shadow: 0 0 20px #8B0000; background: linear-gradient(45deg, #000000, #1a1a1a, #333333, #1a1a1a, #000000); padding: 18px; border-radius: 15px; margin: 20px 0; border: 3px solid #8B0000;">🔫💀💣⚡🖤🩸💰 ACTIVATE FAMIGLIA CYBER OPERATIONS 💰🩸🖤⚡💣💀🔫</summary>
 
 <br>
 
-### 🌐💥🔥⚡🎵 PARTY FRONTEND DIMENSION 🎵⚡🔥💥🌐
-<div style="background: linear-gradient(45deg, #ff0040, #ff4000, #ff8000, #ffff00, #80ff00, #00ff00, #00ff80, #00ffff, #0080ff, #0040ff, #0000ff, #4000ff, #8000ff, #ff00ff, #ff0080, #ff0040); padding: 50px; border-radius: 40px; margin: 30px 0; border: 15px solid #ffffff; box-shadow: 0 0 60px #ff00ff, 0 40px 80px rgba(255,0,64,0.9), inset 0 0 50px rgba(255,255,255,0.5); animation: party-tech-pulse-1 1.5s infinite;">
+### 🌐💀🔥⚡🚬 FRONTEND PROTECTION RACKET 🚬⚡🔥💀🌐
+<div style="background: linear-gradient(45deg, #000000, #1a1a1a, #333333, #4d4d4d, #333333, #1a1a1a, #000000); padding: 40px; border-radius: 30px; margin: 25px 0; border: 10px solid #8B0000; box-shadow: 0 0 40px #8B0000, 0 25px 50px rgba(139,0,0,0.8), inset 0 0 30px rgba(139,0,0,0.4); animation: mafia-tech-pulse-1 3s infinite;">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,angular,typescript,javascript,html,css,sass,tailwind,figma,threejs,webgl,d3,gatsby,nuxt,vite,webpack,babel,nodejs,deno&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,angular,typescript,javascript,html,css,sass,tailwind,figma,threejs,webgl,d3,gatsby,nuxt,vite,webpack,babel&theme=dark&perline=10" />
 
-<div style="margin: 25px 0; padding: 25px; background: rgba(0,0,0,0.9); border-radius: 20px; border: 5px solid #00ffff;">
-<div style="color: #ffffff; font-weight: 900; font-size: 26px; text-shadow: 0 0 20px #ff00ff;">
-🚨💥⚡🎉 FRONTEND PARTY REALITY OBLITERATED 🎉⚡💥🚨
+<div style="margin: 20px 0; padding: 20px; background: rgba(0,0,0,0.9); border-radius: 15px; border: 3px solid #8B0000;">
+<div style="color: #FFFFFF; font-weight: 900; font-size: 22px; text-shadow: 0 0 15px #8B0000;">
+🚨💀⚡🔫 FRONTEND TERRITORY SECURED 🔫⚡💀🚨
 </div>
-<div style="color: #00ffff; font-weight: bold; font-size: 18px; margin-top: 15px;">
-🌈 HYPERDIMENSIONAL UI FRAMEWORKS PARTIFIED 🌈<br>
-💎 QUANTUM RENDERING ENGINES DANCING 💎<br>
-🔥 INTERACTIVE EXPERIENCES RAVING 🔥<br>
-🪩 HOLOGRAPHIC INTERFACES TRANSCENDED 🪩
-</div>
-</div>
-</div>
-
-### ⚙️💎🌈🚀🎶 QUANTUM PARTY BACKEND MULTIVERSE 🎶🚀🌈💎⚙️  
-<div style="background: linear-gradient(45deg, #8000ff, #ff00ff, #ff0080, #ff0040, #ff4000, #ff8000, #ffff00, #80ff00, #00ff00, #00ff80, #00ffff, #0080ff, #0040ff, #0000ff, #4000ff, #8000ff); padding: 50px; border-radius: 40px; margin: 30px 0; border: 15px solid #00ff00; box-shadow: 0 0 60px #00ff00, 0 40px 80px rgba(128,0,255,0.9), inset 0 0 50px rgba(255,255,255,0.5); animation: party-tech-pulse-2 1.5s infinite 0.3s;">
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,go,rust,java,cpp,csharp,php,kotlin,swift,graphql,express,fastapi,django,flask,spring,nestjs,laravel,rails,deno,bun,elixir&theme=dark&perline=11" />
-
-<div style="margin: 25px 0; padding: 25px; background: rgba(0,0,0,0.9); border-radius: 20px; border: 5px solid #ff00ff;">
-<div style="color: #ffffff; font-weight: 900; font-size: 26px; text-shadow: 0 0 20px #00ff00;">
-💥🔥⚡🎊 BACKEND PARTY MULTIVERSE ANNIHILATED 🎊⚡🔥💥
-</div>
-<div style="color: #ff00ff; font-weight: bold; font-size: 18px; margin-top: 15px;">
-🌟 QUANTUM SERVER ARCHITECTURES VIBING 🌟<br>
-⚡ HYPERSPEED APIS DANCING ⚡<br>
-💫 MICROSERVICES ORCHESTRATION RAVING 💫<br>
-🕺 DISTRIBUTED SYSTEMS PARTYING 🕺
+<div style="color: #8B0000; font-weight: bold; font-size: 16px; margin-top: 10px;">
+🖤 UI FRAMEWORKS UNDER PROTECTION 🖤<br>
+⚰️ RENDERING ENGINES CONTROLLED ⚰️<br>
+🩸 INTERACTIVE EXPERIENCES EXTORTED 🩸<br>
+💰 VISUAL INTERFACES MONETIZED 💰
 </div>
 </div>
 </div>
 
-### 🗃️💥🚀🌟🎧 MULTIVERSAL PARTY DATABASE REALM 🎧🌟🚀💥🗃️
-<div style="background: linear-gradient(45deg, #00ffff, #0080ff, #0040ff, #0000ff, #4000ff, #8000ff, #ff00ff, #ff0080, #ff0040, #ff4000, #ff8000, #ffff00, #80ff00, #00ff00, #00ff80, #00ffff); padding: 50px; border-radius: 40px; margin: 30px 0; border: 15px solid #ffff00; box-shadow: 0 0 60px #ffff00, 0 40px 80px rgba(0,255,255,0.9), inset 0 0 50px rgba(255,255,255,0.5); animation: party-tech-pulse-3 1.5s infinite 0.6s;">
+### ⚙️💎🌪️🚀💣 BACKEND ENFORCEMENT DIVISION 💣🚀🌪️💎⚙️  
+<div style="background: linear-gradient(45deg, #1a1a1a, #333333, #4d4d4d, #333333, #1a1a1a, #000000, #1a1a1a); padding: 40px; border-radius: 30px; margin: 25px 0; border: 10px solid #696969; box-shadow: 0 0 40px #696969, 0 25px 50px rgba(105,105,105,0.8), inset 0 0 30px rgba(105,105,105,0.4); animation: mafia-tech-pulse-2 3s infinite 0.5s;">
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,go,rust,java,cpp,csharp,php,kotlin,swift,graphql,express,fastapi,django,flask,spring,nestjs,laravel,rails,deno&theme=dark&perline=10" />
+
+<div style="margin: 20px 0; padding: 20px; background: rgba(0,0,0,0.9); border-radius: 15px; border: 3px solid #696969;">
+<div style="color: #FFFFFF; font-weight: 900; font-size: 22px; text-shadow: 0 0 15px #696969;">
+💀🔥⚡🚬 BACKEND OPERATIONS INFILTRATED 🚬⚡🔥💀
+</div>
+<div style="color: #696969; font-weight: bold; font-size: 16px; margin-top: 10px;">
+🌃 SERVER ARCHITECTURES COMPROMISED 🌃<br>
+⚡ APIS UNDER SURVEILLANCE ⚡<br>
+🔥 MICROSERVICES MONITORED 🔥<br>
+💎 DISTRIBUTED SYSTEMS OWNED 💎
+</div>
+</div>
+</div>
+
+### 🗃️💰🚀🌟🥃 DATABASE LAUNDERING OPERATIONS 🥃🌟🚀💰🗃️
+<div style="background: linear-gradient(45deg, #333333, #4d4d4d, #1a1a1a, #000000, #1a1a1a, #333333, #4d4d4d); padding: 40px; border-radius: 30px; margin: 25px 0; border: 10px solid #FF6347; box-shadow: 0 0 40px #FF6347, 0 25px 50px rgba(255,99,71,0.8), inset 0 0 30px rgba(255,99,71,0.4); animation: mafia-tech-pulse-3 3s infinite 1s;">
 
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,sqlite,elasticsearch,cassandra,neo4j,dynamodb,firebase,supabase,planetscale,prisma,sequelize,typeorm,graphql&theme=dark&perline=8" />
 
-<div style="margin: 25px 0; padding: 25px; background: rgba(0,0,0,0.9); border-radius: 20px; border: 5px solid #ffff00;">
-<div style="color: #ffffff; font-weight: 900; font-size: 26px; text-shadow: 0 0 20px #ffff00;">
-🌈⚡💎🎵 DATABASE PARTY REALITY RECONSTRUCTED 🎵💎⚡🌈
+<div style="margin: 20px 0; padding: 20px; background: rgba(0,0,0,0.9); border-radius: 15px; border: 3px solid #FF6347;">
+<div style="color: #FFFFFF; font-weight: 900; font-size: 22px; text-shadow: 0 0 15px #FF6347;">
+🖤⚡💎🎩 DATABASE EMPIRE ESTABLISHED 🎩💎⚡🖤
 </div>
-<div style="color: #ffff00; font-weight: bold; font-size: 18px; margin-top: 15px;">
-💥 QUANTUM DATA STORAGE PARTIFIED 💥<br>
-🔥 HYPERDIMENSIONAL QUERIES DANCING 🔥<br>
-✨ DISTRIBUTED SYSTEMS RAVING ✨<br>
-💃 RELATIONAL CHAOS ORCHESTRATED 💃
+<div style="color: #FF6347; font-weight: bold; font-size: 16px; margin-top: 10px;">
+💀 DATA STORAGE SYNDICATED 💀<br>
+⚰️ QUERIES RIGGED ⚰️<br>
+🩸 DISTRIBUTED SYSTEMS INFILTRATED 🩸<br>
+💰 INFORMATION TRAFFICKING ACTIVE 💰
 </div>
 </div>
 </div>
 
-### ☁️🔥💎⚡🎤 COSMIC PARTY CLOUD INFRASTRUCTURE 🎤⚡💎🔥☁️
-<div style="background: linear-gradient(45deg, #80ff00, #00ff00, #00ff80, #00ffff, #0080ff, #0040ff, #0000ff, #4000ff, #8000ff, #ff00ff, #ff0080, #ff0040, #ff4000, #ff8000, #ffff00, #80ff00); padding: 50px; border-radius: 40px; margin: 30px 0; border: 15px solid #ff0040; box-shadow: 0 0 60px #ff0040, 0 40px 80px rgba(128,255,0,0.9), inset 0 0 50px rgba(255,255,255,0.5); animation: party-tech-pulse-4 1.5s infinite 0.9s;">
+### ☁️🔥💎⚡🌃 CLOUD RACKET INFRASTRUCTURE 🌃⚡💎🔥☁️
+<div style="background: linear-gradient(45deg, #4d4d4d, #333333, #1a1a1a, #000000, #1a1a1a, #333333, #4d4d4d); padding: 40px; border-radius: 30px; margin: 25px 0; border: 10px solid #DAA520; box-shadow: 0 0 40px #DAA520, 0 25px 50px rgba(218,165,32,0.8), inset 0 0 30px rgba(218,165,32,0.4); animation: mafia-tech-pulse-4 3s infinite 1.5s;">
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,vercel,netlify,cloudflare,heroku,digitalocean,ansible,grafana,prometheus&theme=dark&perline=8" />
 
-<div style="margin: 25px 0; padding: 25px; background: rgba(0,0,0,0.9); border-radius: 20px; border: 5px solid #ff0040;">
-<div style="color: #ffffff; font-weight: 900; font-size: 26px; text-shadow: 0 0 20px #ff0040;">
-💥🚨⚡🪩 CLOUD PARTY DIMENSION TRANSCENDED 🪩⚡🚨💥
+<div style="margin: 20px 0; padding: 20px; background: rgba(0,0,0,0.9); border-radius: 15px; border: 3px solid #DAA520;">
+<div style="color: #FFFFFF; font-weight: 900; font-size: 22px; text-shadow: 0 0 15px #DAA520;">
+💀🚨⚡💣 CLOUD TERRITORY ANNEXED 💣⚡🚨💀
 </div>
-<div style="color: #ff0040; font-weight: bold; font-size: 18px; margin-top: 15px;">
-🚀 INFINITE SCALABILITY PARTIFIED 🚀<br>
-🌈 DEVOPS AUTOMATION DANCING 🌈<br>
-💎 MONITORING SYSTEMS RAVING 💎<br>
-🕺 ORCHESTRATION ETERNALLY VIBING 🕺
+<div style="color: #DAA520; font-weight: bold; font-size: 16px; margin-top: 10px;">
+🚀 INFINITE SCALABILITY EXPLOITED 🚀<br>
+🖤 DEVOPS OPERATIONS HIJACKED 🖤<br>
+⚰️ MONITORING SYSTEMS SURVEILLED ⚰️<br>
+🩸 ORCHESTRATION UNDER CONTROL 🩸
 </div>
 </div>
 </div>
 
-### 📱🌟💥🎆🎼 DIMENSIONAL PARTY MOBILE INTERFACES 🎼🎆💥🌟📱
-<div style="background: linear-gradient(45deg, #ffff00, #80ff00, #00ff00, #00ff80, #00ffff, #0080ff, #0040ff, #0000ff, #4000ff, #8000ff, #ff00ff, #ff0080, #ff0040, #ff4000, #ff8000, #ffff00); padding: 50px; border-radius: 40px; margin: 30px 0; border: 15px solid #00ffff; box-shadow: 0 0 60px #00ffff, 0 40px 80px rgba(255,255,0,0.9), inset 0 0 50px rgba(255,255,255,0.5); animation: party-tech-pulse-5 1.5s infinite 1.2s;">
+### 📱🌟💀🎆🚬 MOBILE HEIST OPERATIONS 🚬🎆💀🌟📱
+<div style="background: linear-gradient(45deg, #000000, #1a1a1a, #333333, #4d4d4d, #333333, #1a1a1a, #000000); padding: 40px; border-radius: 30px; margin: 25px 0; border: 10px solid #9932CC; box-shadow: 0 0 40px #9932CC, 0 25px 50px rgba(153,50,204,0.8), inset 0 0 30px rgba(153,50,204,0.4); animation: mafia-tech-pulse-5 3s infinite 2s;">
 
 <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,reactnative,unity,xamarin,ionic,cordova,expo,androidstudio,xcode&theme=dark&perline=6" />
 
-<div style="margin: 25px 0; padding: 25px; background: rgba(0,0,0,0.9); border-radius: 20px; border: 5px solid #00ffff;">
-<div style="color: #ffffff; font-weight: 900; font-size: 26px; text-shadow: 0 0 20px #00ffff;">
-🔥💎🌈🎹 MOBILE PARTY REALITY OBLITERATED 🎹🌈💎🔥
+<div style="margin: 20px 0; padding: 20px; background: rgba(0,0,0,0.9); border-radius: 15px; border: 3px solid #9932CC;">
+<div style="color: #FFFFFF; font-weight: 900; font-size: 22px; text-shadow: 0 0 15px #9932CC;">
+🔥💎🖤🥃 MOBILE NETWORKS INFILTRATED 🥃🖤💎🔥
 </div>
-<div style="color: #00ffff; font-weight: bold; font-size: 18px; margin-top: 15px;">
-⚡ CROSS-PLATFORM MASTERY PARTIFIED ⚡<br>
-🌟 NATIVE PERFORMANCE DANCING 🌟<br>
-💫 USER EXPERIENCES RAVING 💫<br>
-💃 TOUCH INTERFACES TRANSCENDED 💃
+<div style="color: #9932CC; font-weight: bold; font-size: 16px; margin-top: 10px;">
+⚡ CROSS-PLATFORM HEISTS MASTERED ⚡<br>
+🌃 NATIVE PERFORMANCE COMPROMISED 🌃<br>
+🔥 USER EXPERIENCES MANIPULATED 🔥<br>
+💰 TOUCH INTERFACES MONETIZED 💰
 </div>
 </div>
 </div>
 
-### 🤖🧠💥🎇🎸
+### 🤖🧠💀🎇🌙 AI/ML INTELLIGENCE NETWORK 🌙🎇💀🧠🤖
+<div style="background: linear-gradient(45deg, #1a1a1a, #333333, #4d4d4d, #333333, #1a1a1a, #000000, #1a1a1a); padding: 40px; border-radius: 30px; margin: 25px 0; border: 10px solid #B22222; box-shadow: 0 0 40px #B22222, 0 25px 50px rgba(178,34,34,0.8), inset 0 0 30px rgba(178,34,34,0.4); animation: mafia-tech-pulse-6 3s infinite 2.5s;">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,keras,numpy,pandas,jupyter,r,matlab&theme=dark&perline=5" />
+
+<div style="margin: 20px 0; padding: 20px; background: rgba(0,0,0,0.9); border-radius: 15px; border: 3px solid #B22222;">
+<div style="color: #FFFFFF; font-weight: 900; font-size: 22px; text-shadow: 0 0 15px #B22222;">
+🖤⚰️💣🎩 AI CONSCIOUSNESS SYNDICATED 🎩💣⚰️🖤
+</div>
+<div style="color: #B22222; font-weight: bold; font-size: 16px; margin-top: 10px;">
+🩸 NEURAL NETWORKS CORRUPTED 🩸<br>
+💰 MACHINE LEARNING EXPLOITED 💰<br>
+🚬 DEEP LEARNING INFILTRATED 🚬<br>
+🥃 ARTIFICIAL INTELLIGENCE RECRUITED 🥃
+</div>
+</div>
+</div>
+
+</details>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔫💀🖤⚰️ FAMIGLIA CODE OF HONOR ⚰️🖤💀🔫
+
+<div style="background: linear-gradient(45deg, #000000, #1a1a1a, #000000); color: #8B0000; padding: 30px
